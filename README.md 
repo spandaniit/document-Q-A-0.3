@@ -1,0 +1,9 @@
+# 📘 Document Q&A with Streamlit
+
+Upload a PDF and ask questions.  
+Built with Streamlit + OpenAI embeddings.
+
+## Run locally
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
